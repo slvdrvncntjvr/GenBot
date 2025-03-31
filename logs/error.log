@@ -1,0 +1,23 @@
+[2025-03-26 14:00:49] error: Failed to login: An invalid token was provided.
+[2025-03-27 02:50:05] error: Failed to login: Connect Timeout Error (attempted address: discord.com:443, timeout: 10000ms)
+[2025-03-27 09:17:34] error: Failed to send announcement to CCISkolars [PUP Main Campus] (1249140952581410987): Missing Access
+[2025-03-31 16:35:23] error: Bot suspended via emergency kill code
+[2025-03-31 16:42:13] error: Bot suspended via emergency kill code
+[2025-03-31 16:43:28] error: Bot suspended via emergency kill code
+[2025-03-31 19:21:38] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:21:40] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:21:45] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:21:46] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:22:22] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:33:32] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:34:18] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:34:34] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:35:52] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:36:36] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:36:39] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:36:41] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:48:15] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:48:16] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 19:48:19] error: Error processing auto-responses: prefix is not defined
+[2025-03-31 20:29:34] error: Error processing auto-responses: Maximum call stack size exceeded
+[2025-03-31 20:30:09] error: Error processing auto-responses: Maximum call stack size exceeded
